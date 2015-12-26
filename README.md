@@ -7,3 +7,5 @@
 host已经失效了，只是给大家提供一种方法来使用。
 # autosync
 使用aria2多线程下载工具来一键同步远程机器ftp里面的内容
+# sound
+hp3803tx 笔记本声音解决方案 alsactl init alsactl stone 以后开机启动

@@ -10,5 +10,5 @@ host已经失效了，只是给大家提供一种方法来使用。
 # sound
 hp3803tx 笔记本声音解决方案 alsactl init alsactl stone 以后开机启动
 
-#converacc
+# converacc
 从视频文件夹中提取aac音轨， 使用方法脚本后面加视频所在的文件夹，完成后在视频所在的文件添加出来aac文件夹
